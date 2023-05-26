@@ -1,0 +1,8 @@
+prefix=/home/aditya/Desktop/major_project/devel
+
+Name: robot_arm_pkg
+Description: Description of robot_arm_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
